@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: rgb(185, 30, 216);
+  border:chocolate 10% solid;
+  width:  auto;
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .App-logo {
